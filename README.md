@@ -1,1 +1,1 @@
-# odin-recipes
+This website will be a basic recipes website. I intend to practice using GIT as well as implimenting new skills I have learned so far. 
